@@ -1,4 +1,4 @@
-# Grandcentrix-Test-Automation
+# Test-Automation
 
 (Project not completed)
 
